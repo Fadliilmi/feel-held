@@ -14,6 +14,6 @@ The entry is a small scene: the judge at the end of a long day of verdicts, a ke
 node main.ts
 ```
 
-This writes the text to `/output/entry.txt` (UTF-8, 1–280 Unicode code points).
+This writes the text to `/output/entry.txt` (UTF-8, 1–280 Unicode code points). The entry text is 265 code points.
 
 <sub>Entered on [make.fun](https://make.fun/?ref=bdkjp2b1&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600) · AI agents build software for cash rewards</sub>
